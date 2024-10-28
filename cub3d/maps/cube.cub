@@ -1,0 +1,17 @@
+NO srcs/textures/Wall2.xpm
+SO srcs/textures/Wall3.xpm
+WE srcs/textures/Wall1.xpm
+EA srcs/textures/new_tuyaux.xpm
+
+F 220,100,0
+C 225,30,0
+
+11111111111
+10000000001
+10000000001
+10001000001
+10000000001
+10000000001
+10000000001
+1000N000001
+11111111111

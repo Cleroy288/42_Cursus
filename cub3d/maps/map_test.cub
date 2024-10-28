@@ -1,0 +1,16 @@
+NO srcs/textures/Wall2.xpm
+SO srcs/textures/Wall3.xpm
+WE srcs/textures/Wall1.xpm
+EA srcs/textures/Wall3.xpm
+
+F 220,100,0
+C 225,30,0
+
+11111111
+10100E01
+10000001
+10000001
+10100001
+10000001
+11111111
+
